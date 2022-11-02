@@ -1,0 +1,60 @@
+.brand-name{
+    color: white;
+    font-size: 30px;
+}
+
+.brand-name:hover{
+    color: white;
+}
+
+.container{
+    text-align: center;
+}
+
+.heading-123{
+    font-size: 100px;
+    font-weight: bold;
+    margin: 30px auto 30px;
+    letter-spacing: 5;
+    color: #fccb42;
+}
+
+#input-box{
+    width: 550px;
+    height: 60px;
+    padding: 10px;
+    font-size: 25px;
+}
+
+#status p{
+    
+    width: 550px;
+    height: 60px;
+    margin: 20px auto 0px auto;
+    padding: 10px;
+    font-size: 25px;
+   
+}
+
+#guessed-answers p{
+
+    width: 550px;
+    height: 60px;
+    margin: auto;
+    font-size: 25px;
+    padding: 10px;
+    border: 1px solid #e4e4e4;
+
+}
+
+.yellow{
+    background-color: #f7d67a;
+}
+
+.green{
+    background-color: rgb(133, 216, 133);
+}
+
+.wrong{
+    background-color: rgb(247, 108, 108);
+}
